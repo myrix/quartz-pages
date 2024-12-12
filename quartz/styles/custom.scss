@@ -1,3 +1,56 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+html { font-size: 120%; }
+
+.katex { font-size: 1.05em !important; }
+
+.page { max-width: 1920px; }
+
+.page > #quartz-body {
+  grid-template:
+    "grid-sidebar-left grid-header grid-sidebar-right"
+    "grid-sidebar-left grid-center grid-sidebar-right"
+    "grid-sidebar-left grid-footer grid-sidebar-right"
+    / 30% auto 30%;
+}
+
+// .page > #quartz-body .center { max-width: 125%; }
+
+// .page > #quartz-body .sidebar.left {
+//   z-index: 3;
+// }
+
+// .page > #quartz-body .center {
+//   z-index: 0;
+// }
+
+// .page > #quartz-body .sidebar.right {
+//   z-index: 1;
+// }
+
+img {
+  max-width: 145%;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 11;
+}
+
+.page article p,
+.page article ol,
+.page article ul,
+.page article li {
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+}
+
+.page article li > * {
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+}
+
+.toc.desktop-only {
+  max-height: 80%;
+}
