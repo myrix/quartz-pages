@@ -1,5 +1,11 @@
 ---
 created: 2024-10-29 06:11:00+03:00
+tags:
+ - DoorsOfTrithius
+ - Suggestion
+ - Unbounded
+ - Scaling
+ - Ability
 ---
 
 An aggregate of a number of specific suggestions, some connected, some not.
@@ -184,9 +190,9 @@ Perhaps there are some specific things that might motivate Juki to take up devel
 
 # Write-up text v. 2
 
-Here's a design suggestion for unbounded scaling abilities and a possible variant of recipe and ability discovery mechanic: \<link\>
+Here's a suggestion for possible design direction for unbounded scaling abilities and a possible variant of recipe and ability discovery mechanic: https://myrix.github.io/quartz-pages/Doors-of-Trithius/Suggestions/2024-10-October/2024-10-29/October-suggestions/Text---Unbounded-scaling-abilities/Text
 
-Nothing urgent, so check out when you have time and it's convenient.
+Not urgent, so check out when you have time and it's convenient.
 
 Started writing it a while ago and hadn't time to polish it, so if there's any inconsistencies or missing things or whatever, or questions or comments or queries for elaboration, tell me and I'll update.
 
@@ -194,7 +200,7 @@ It's as an HTML export from my Obsidian.md notes, couldn't find a way to export 
 
 Tried to do this more as an analysis with rationale as opposed to just straight suggestions, more chances that way I hope it will useful for the game, as always if not directly, then as a source of inspiration arguments.
 
-Took a lot of time cause needed to think it through and then write it up, but I still think it's worth it.
+Took a lot of time and effort cause needed to think it through and then write it up, but I still think it's worth it.
 
 **1. Next write-ups**
 
@@ -202,7 +208,7 @@ I'm still going to also write up suggestions of possible things with rationale o
 
 Two reasons I want to do this: 1) if there's a chance my suggestions could influence game design, even if not directly, I would like to take it, cause that's rewarding and feels good, probably even more rewarding then writing code; 2) due to considerations on possible plans to release out of early access.
 
-To elaborate on the 2nd reason, if the game is to be released out of early access, it's foundational systems, like general skill and ability stuff, possible difficulty modes and new game plus and metaprogression, hunger and travel weariness, should be finalized before higher level content, like quests, specific skills, items etc.
+To elaborate on the 2nd reason, if the game is to be released out of early access, it's foundational systems, like general skill and ability stuff, possible difficulty modes and new game plus and metaprogression, and hunger and travel weariness, should be finalized before higher level content, like quests, specific skills, items etc.
 
 Doesn't mean that only foundational systems should be worked on until they're done, it's better to intersperse with higher level content, to give players updates and in the mean time to have attention and focus to thoroughly design foundational stuff portion by portion to the highest quality.
 
@@ -210,12 +216,12 @@ But yeah, have thoughts on this foundational stuff and want to write up on the c
 
 Yeah, I remember you saying that there's travel weariness stuff I don't know and might miss the mark because of it, but it's better for me to work out why I think what I think, and then if/when the discrepancies will become apparent I can take additional info in and update my understanding and notions on how things should be, if required.
 
-Unless of course you, as the ultimate beneficiary, would notify me that there's comparatively little value in my suggestions and rationale; I'd like to use my time efficiently and if writing suggestions is for sure not that useful, I would rather be writing code. So, after perusing my current write-up please notify if it's any useful in any way.
+Unless of course you, as the ultimate beneficiary, would notify me that there's comparatively little value in my suggestions and rationale; I'd like to use my time efficiently and if writing suggestions is for sure not that useful, I would rather be writing code. So, after perusing my current write-up please notify if there's any usefulness in it.
 
 **2. Current plans**
 
 Need to focus on my job for a while, through that's just means would write-up things referred to above not immediately, I'm as before available for discussion/testing, message me any time.
 
-I'm going to at the end of this week, or beginning of the next one, start talking to my team lead on the possibility of me disengaging from my current job; it's not ideal, I really wanted to contribute some code to the game before I would start talking, but there's no time, would be wrong not to give the heads up that I might be leave and stop being available starting some time next year, I'm sure he would appreciate info for planning.
+I'm going to this week, or beginning of the next one, start talking to my team lead on the possibility of me disengaging from my current job; timing is not ideal, I really wanted to contribute some code to the game before I would start talking, but there's end of the year soon, would be wrong not to give the heads up that I might be leaving and stop being available starting some time next year, I'm sure the info would be appreciated for planning.
 
 Then back to writing up, maybe with some coding in between.

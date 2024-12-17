@@ -77,3 +77,12 @@ First time when the player goes back to a town that now have a shop closed which
 Town prosperity could be propped up by defeating nearby dungeons to prevent raids, by helping to defend towns against the raids and by doing quests in towns."
 
 It's short and to the point, and can be justified in taking the player's time and attention due to prosperity being core mechanic and shop availability being an important matter.
+
+# Additional notes
+
+More questions:
+
+[Discord](https://discord.com/channels/724418094495301632/933806465641218140/1317058641291116555):
+
+> Horth — 12/13/24, 12:20 PM
+> Question: When an enemy faction lays waste to your favorite town such that only the Inn is left, is there a way to restore that town?

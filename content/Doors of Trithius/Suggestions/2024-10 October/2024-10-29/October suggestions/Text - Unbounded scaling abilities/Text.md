@@ -1,6 +1,13 @@
 ---
 created: 2024-11-06 06:29:07+03:00
 publish: true
+tags:
+ - DoorsOfTrithius
+ - Suggestion
+ - Unbounded
+ - Scaling
+ - Ability
+ - Discovery
 ---
 
 Suggestions for Sineso on unbounded scaling abilities with some additional things.
